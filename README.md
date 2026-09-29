@@ -8,7 +8,7 @@ I build web applications and developer tools with a focus on clean interfaces, s
   <a href="https://aumarz.me">
     <img src="https://img.shields.io/badge/Portfolio-aumarz.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ahmed-umar">
+  <a href="https://linkedin.com/in/ahmed-umar-z">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aumarz2005@gmail.com">
@@ -19,7 +19,7 @@ I build web applications and developer tools with a focus on clean interfaces, s
 ### Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,supabase,docker,jenkins,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,jenkins,git,github" />
 </p>
 
 ### LeetCode
@@ -40,10 +40,6 @@ I build web applications and developer tools with a focus on clean interfaces, s
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=U-m-4r&hide_border=true" />
 </p>
-
-### Contribution Graph
-
-[![Ahmed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=U-m-4r\&hide_border=true\&area=true)](https://github.com/U-m-4r)
 
 ---
 
