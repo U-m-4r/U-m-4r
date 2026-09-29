@@ -16,6 +16,13 @@ I build web applications and developer tools with a focus on clean interfaces, s
   </a>
 </p>
 
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+    width="400"
+  />
+</p>
+
 ### Tech
 
 <p>
