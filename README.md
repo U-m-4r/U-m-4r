@@ -1,4 +1,4 @@
-# Hi, I'm U-4r 👋
+# Hi, I'm UMAR! 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aumarz.me-black?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://aumarz.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-U--m--4r-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/U-m-4r)
