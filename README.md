@@ -33,7 +33,6 @@ I build web applications and developer tools with a focus on clean interfaces, s
 ### GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=U-m-4r&show_icons=true&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-m-4r&layout=compact&hide_border=true" height="170" />
 </p>
 
@@ -44,5 +43,5 @@ I build web applications and developer tools with a focus on clean interfaces, s
 ---
 
 <p align="center">
-  <i>Build. Learn. Ship.</i>
+  <i>Learning By Building</i>
 </p>
