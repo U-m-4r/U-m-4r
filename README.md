@@ -19,7 +19,7 @@ I build web applications and developer tools with a focus on clean interfaces, s
 ### Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,jenkins,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,express,mongodb,postgres,mysql,docker,jenkins,git,github" />
 </p>
 
 ### LeetCode
