@@ -32,14 +32,6 @@ I build web applications and developer tools with a focus on clean interfaces, s
 ### LeetCode
 
 <p>
-  <a href="https://leetcode.com/u/U_m_4r/">
-    <img
-      src="https://leetcard.jacoblin.cool/U_m_4r?theme=dark&font=Karma&ext=contest"
-    />
-  </a>
-</p>
-
-<p>
   <img
     src="https://leetcard.jacoblin.cool/U_m_4r?theme=dark&font=Karma&ext=heatmap"
   />
